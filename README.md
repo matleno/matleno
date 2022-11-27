@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML expert</a></h1>
+<h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML</a></h1>
 
 As a child, I was always drawn to IT and discovered Windows 95 at the age of six. Although I made many mistakes there (my parents were not happy), it brought me to a deeper understanding of computers, especially living in the age of data and the internet.
 
