@@ -1,24 +1,22 @@
 <h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML expert</a>, <a href="https://www.instagram.com/matleno/">Crossfit & Music</a></h1>
 
-<h2>👨‍💻 NLP Projects:</h2>
+<h2>👨‍💻 Python Projects:</h2>
 
-- <b>NLP (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Image (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>PredictiveJustice with explainability</b>
+  - [IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable)
+- <b>Image (n.d.)</b>
+  - [Image](https://github.com) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📺 R</h2>
+<h2>📈 R project</h2>
 
 - [First](https://www.youtube.com)
 
-<h2>📺 Certification</h2>
-- [First](https://www.youtube.com)
+<h2>🏅 Certifications</h2>
+- <a href="https://www.cloudskillsboost.google/public_profiles/c68faf2f-af7d-4d05-9d86-b21dadf5348b/badges/2913845">Google Cloud Computing Foundations: Cloud Computing Fundamentals</a>
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌐 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
