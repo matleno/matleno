@@ -11,6 +11,8 @@ In the meantime, Aptar group offered me an internship to explore digitalization 
 Dynamic and athletic, I am also an eclectic music lover. 
 Few words, yet the right ones, describe me. 
 
+---
+
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>PredictiveJustice with explainability</b>
