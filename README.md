@@ -1,4 +1,15 @@
-<h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML expert</a>, <a href="https://www.instagram.com/matleno/">Crossfit & Music</a></h1>
+<h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML expert</a></h1>
+
+As a child, I was always drawn to IT and discovered Windows 95 at the age of six. Although I made many mistakes there (my parents were not happy), it brought me to a deeper understanding of computers, especially living in the age of data and the internet.
+
+When I was in my 20s, Economics was my area of interest, but I stopped my university career to gain experience as a salesman and trainer. While traveling the world and talking to thousands of people, I learned a lot. 
+
+Data, IT, statistics, and knowledge were still my first loves, so I returned to finish my degree. In november 2022 I've completed my "Economics and Business Analytics" master's degree, 110 cum laude.
+
+In the meantime, Aptar group offered me an internship to explore digitalization process and AI in order to make better company decisions.
+
+Dynamic and athletic, I am also an eclectic music lover. 
+Few words, yet the right ones, describe me. 
 
 <h2>👨‍💻 Python Projects:</h2>
 
