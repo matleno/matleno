@@ -26,7 +26,7 @@ Few words, yet the right ones, describe me.
   - [Pharma Drugs sales](https://github.com/matleno/TimeSeries)
 
 - <b>Spatial Models</b>
-  - [EPA - AQS - PM2.5](https://github.com/matleno/TimeSeries)  <b><i>(Kriging predictor)</b></i>
+  - [EPA - AQS - PM2.5](https://github.com/matleno/Spatial_Kriging)  <b><i>(Kriging predictor)</b></i>
   - [Houston Region Homicides](https://github.com/matleno/SpatialModels)  <b><i>(from General nesting spatial model)</b></i>
 
 - <b>PCA - Logistic regression - Decision Tree</b>
