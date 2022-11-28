@@ -35,9 +35,9 @@ Few words, yet the right ones, describe me. Follow me on [Linkedin](https://www.
 <h3>👨‍💻 Python Projects:</h3>
 
 - <b>PredictiveJustice with explainability</b>
-  - [IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable)
-- <b>Image (n.d.)</b>
-  - [Image](https://github.com) <b><i>(Potentially NSFW)</b></i>
+  - [NLP - IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable)
+- <b>Image recognition</b>
+  - [Basic conv - MNIST](https://github.com/matleno/conv)
 
 <h3>📈 R project</h3>
 
