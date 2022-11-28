@@ -24,7 +24,9 @@ Few words, yet the right ones, describe me.
 
 - <b>Time Series forecasting (classical and modern)</b>
   - [Pharma Drugs sales](https://github.com/matleno/TimeSeries)
-  - [IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable))
+
+- <b>Spatial Kriging</b>
+  - [EPA - AQS - PM2.5](https://github.com/matleno/TimeSeries)
 
 - [First](https://www.youtube.com)
 
