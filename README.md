@@ -28,6 +28,9 @@ Few words, yet the right ones, describe me.
 - <b>Spatial Kriging</b>
   - [EPA - AQS - PM2.5](https://github.com/matleno/TimeSeries)
 
+- <b>PCA - Logistic regression - Decision Tree</b>
+  - [Winsconsin Breast Cancer](https://github.com/matleno/Pca_DecisionTree)
+
 - [First](https://www.youtube.com)
 
 <h2>🏅 Certifications</h2>
