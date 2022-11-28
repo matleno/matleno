@@ -22,6 +22,10 @@ Few words, yet the right ones, describe me.
 
 <h2>📈 R project</h2>
 
+- <b>Time Series forecasting (classical and modern)</b>
+  - [Pharma Drugs sales](https://github.com/matleno/TimeSeries)
+  - [IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable))
+
 - [First](https://www.youtube.com)
 
 <h2>🏅 Certifications</h2>
