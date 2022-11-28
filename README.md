@@ -1,26 +1,45 @@
-<h1>Hi, I'm Matteo! <br/><a href="https://www.linkedin.com/in/matteo-lenoci-87671773/">Data Scientist</a>, <a href="https://github.com/matleno">AI & ML</a></h1>
+# 🖥️🏋️🏂🏻🎵 Matleno
+
+**`Data scientist (Statistics/AI/ML)`**
 
 As a child, I was always drawn to IT and discovered Windows 95 at the age of six. Although I made many mistakes there (my parents were not happy), it brought me to a deeper understanding of computers, especially living in the age of data and the internet.
-
 When I was in my 20s, Economics was my area of interest, but I stopped my university career to gain experience as a salesman and trainer. While traveling the world and talking to thousands of people, I learned a lot. 
 
 Data, IT, statistics, and knowledge were still my first loves, so I returned to finish my degree. In november 2022 I've completed my "Economics and Business Analytics" master's degree, 110 cum laude.
 
 In the meantime, Aptar group offered me an internship to explore digitalization process and AI in order to make better company decisions.
-
-Dynamic and athletic, I am also an eclectic music lover. 
-Few words, yet the right ones, describe me. 
+Few words, yet the right ones, describe me. Follow me on [Linkedin](https://www.linkedin.com/in/matteo-lenoci-87671773/)
 
 ---
 
-<h2>👨‍💻 Python Projects:</h2>
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
+---
+
+
+
+
+<h3>👨‍💻 Python Projects:</h3>
 
 - <b>PredictiveJustice with explainability</b>
   - [IMU tax litigations](https://github.com/matleno/Predictive-Jusitce-explainable)
 - <b>Image (n.d.)</b>
   - [Image](https://github.com) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📈 R project</h2>
+<h3>📈 R project</h3>
 
 - <b>Time Series forecasting (classical and modern)</b>
   - [Pharma Drugs sales](https://github.com/matleno/TimeSeries)
@@ -34,6 +53,7 @@ Few words, yet the right ones, describe me.
 
 - [First](https://www.youtube.com)
 
+---
 <h2>🏅 Certifications</h2>
 - <a href="https://www.cloudskillsboost.google/public_profiles/c68faf2f-af7d-4d05-9d86-b21dadf5348b/badges/2913845">Google Cloud Computing Foundations: Cloud Computing Fundamentals</a>
 
