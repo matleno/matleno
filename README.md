@@ -64,7 +64,7 @@ Few words, yet the right ones, describe me. Follow me on [Linkedin](https://www.
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
-[twitter]: https://twitter.com/_matleno_
+[twitter]: https://twitter.com/_matleno
 [instagram]: https://www.instagram.com/matleno/
 [linkedin]: https://www.linkedin.com/in/matteo-lenoci-87671773/
 
